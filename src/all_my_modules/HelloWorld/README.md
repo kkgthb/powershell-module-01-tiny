@@ -1,0 +1,1 @@
+This PowerShell module will help you greet people or learn a cat fact.  Yes, I consider this all part of saying "Hello, world."  I like cats.
